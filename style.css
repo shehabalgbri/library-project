@@ -1,0 +1,53 @@
+body{background-color: #1A85A7;margin: 0;}
+h1{color: #F5F5F5;text-align: center;position: relative; top: 80px; text-shadow: 0px 0px 8px rgb(231, 235, 27);}
+#top{background-color: #0C88F3;height: 300px;position: relative;bottom: 15px;}
+#books{width:10%;position: relative;bottom: 100px; left: 1420px;}
+marquee{background-color:#0A3458 ;height: 70px; position: relative;top: 120px; font-size: 40px;color: #F5F5F5; text-shadow:0px 0px 8px rgb(12, 190, 57);display: flex;align-items: center;}
+h2{text-align: center;color: #F5F5F5;}
+h3{text-align: center;}
+h4{font-size: 30px;color: #F5F5F5;direction: rtl;position: relative; bottom: 350px; right: 300px;}
+h5{font-size: 30px;color: #F5F5F5;direction: rtl;position: relative; bottom: 200px; right: 300px;}
+#menu{background-color:#0860A2 ; height: 50px;position: relative;bottom: 15px;}
+.menuitem{font-size: 20px;color: #F5F5F5;text-decoration: none;}
+#loigntxt{position: relative;top: 10px; left: 1300px;}
+#loigntxt2{position: relative;top: 10px; left: 895px;}
+#createtxt{position: relative;top: 10px; left: 1250px;}
+#createtxt2{position: relative;top: 10px; left:860px;}
+#allbookstext{position: relative;top: 10px; left:820px}
+#story{position: relative; top: 10px; left: 660px;}
+#program{position: relative; top: 10px; left: 700px;}
+#sport{position: relative;top: 10px;left: 740px;}
+#edu{position: relative;top: 10px;left: 780px;}
+#TxtBoxSearch{width: 300px;position: relative;   right:270px;}
+#TxtBoxSearch2{width: 300px;position: relative;   right:630px;}
+#imgSearch{position: relative;top: 10px;right: 270px;}
+#imgSearch2{position: relative;top: 10px;right: 630px;}
+.txtBox{width: 400px;height: 50px;position: relative;top: 100px; left: 600px;font-size:30px;text-align: center;}
+.Lable{font-size: 30px;color: #F5F5F5;}
+#Lable1{position: relative;top: 25px; left: 610px;}
+#Lable2{position: relative; bottom: 130px; left: 1030px;}
+#loginbutton{background-color: black;position: relative;top: 170px;left: 620px;cursor: grab;}
+#loginbutton2{background-color: black;position: relative;top: 50px;left: 570px;cursor: grab;}
+#Lable3{position: relative;bottom: 200px;left: 630px;}
+#Lable4{position: relative;bottom: 170px; left: 1040px;}
+#Lable5{position: relative; bottom: 100px; left: 1040px;}
+#Lable6{position: relative; bottom: 50px; left: 1040px;}
+#Lable7{position: relative;top: 60px;left: 1040px;}
+#loginbutton3{ width: 150px; background-color: black;position: relative;top: 50px;left: 690px;cursor: grab;}
+#word{height: 60px; position: relative;bottom: 60px;left: 490px;}
+.booksstyle{ width: 15%; border: black;background-color: black;padding: 5px;}
+#powerbook{position: relative;left: 83%;}
+#textpower{position: relative; bottom: 350px; right: 300px;}
+.styletext{font-size: 20px;color: black;background-color: #F5F5F5;direction: rtl;padding: 2px;}
+.imgstyle{width: 5%;background-color: black;padding:1px;}
+#imgdownload{position: relative; bottom: 300px; left: 1000px;}
+#imgread{position: relative;bottom: 300px;left: 500px;}
+hr{position: relative;bottom: 200px; border-color: black; }
+#imgibrahim{position: relative; bottom: 550px; left:83%;}
+#imgibrahim2{position: relative; bottom: 350px; left:83%;}
+#textibrahim{position: relative; bottom: 200px; right: 300px;}
+#imgdives{position: relative;left: 45%;}
+#imgmanager{position: relative;left: 10%;}
+#imggeet{position: relative;right: 25%;}
+#imghangre{position: relative;right: 60%;}
+#imgunix{position: relative;top: 400px;left: 3.5%;}
